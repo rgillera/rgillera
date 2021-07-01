@@ -4,7 +4,7 @@ I am a full-stack software engineer.
 
 [![Generic badge](https://img.shields.io/badge/Api-Laravel-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Frontend-Vue-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Mobile Native-Flutter-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Mobile-Flutter-<COLOR>.svg)](https://shields.io/)
 
 
 <p>
