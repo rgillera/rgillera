@@ -2,9 +2,9 @@
 
 I am a full-stack software engineer.
 
-[![Generic badge](https://img.shields.io/badge/Api-Laravel-<COLOR>.svg)]
-[![Generic badge](https://img.shields.io/badge/Frontend-Vue-<COLOR>.svg)]
-[![Generic badge](https://img.shields.io/badge/Mobile-Flutter-<COLOR>.svg)]
+![Generic badge](https://img.shields.io/badge/Api-Laravel-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Frontend-Vue-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Mobile-Flutter-<COLOR>.svg)
 
 
 <p>
