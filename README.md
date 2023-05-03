@@ -2,7 +2,7 @@
 
 I am a full-stack software engineer.
 
-Projects Created:
+Projects:
 <p>
 https://fitlefy.com (Android & IOS)
 </p>
