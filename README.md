@@ -5,7 +5,7 @@
 - Mobile, web and desktop application development: I can develop applications for any platforms using Flutter & Firebase
 - Technical consulting: I can provide technical advice and guidance on various software development-related topics, including technology selection, software architecture, and project management.
 
-I'm a full-stack programmer with 10 years of experience in the industry. I specialize in building mobile & web applications using the latest technologies and frameworks.
+I'm a full-stack programmer with more than 10 years of experience in the industry. I specialize in building mobile & web applications using the latest technologies and frameworks.
 
 I'm passionate about developing clean, maintainable, and efficient code that delivers optimal performance. I have experience working with startups, small businesses, and enterprise-level companies.
 
