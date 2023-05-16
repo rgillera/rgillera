@@ -12,7 +12,8 @@ I'm passionate about developing clean, maintainable, and efficient code that del
 If you're looking for a skilled full-stack programmer who can bring your vision to life, please don't hesitate to contact me. I'd love to discuss your project requirements and how I can help you achieve your goals.
 
 💼 Projects
-I created Fitlefy Mobile App (Available in Android & IOS) - https://fitlefy.com/
+
+- I created Fitlefy Mobile App (Available in Android & IOS) - https://fitlefy.com/
 
   
 <p>
