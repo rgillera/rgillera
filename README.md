@@ -2,13 +2,20 @@
 
 ✅ I can help you with:
 
-- Mobile, web and desktop application development: I can develop applications for any platforms using Flutter
-- Technical consulting: I can provide technical advice and guidance on various software development-related topics, including technology selection, software architecture, and project management.
+- **Mobile, Web, and Desktop Application Development**: I develop cross-platform applications using **Flutter** that work seamlessly across devices.
+- **Technical Consulting**: I provide expert guidance on software architecture, tech stack decisions, project planning, and more.
+- **App Store Optimization (ASO)**: I help indie developers, startups, and solo founders grow their mobile apps with smarter ASO strategies.  
+  👉 **Get a free ASO audit** — just [DM me on X](https://twitter.com/yourusername) or open an issue here!
 
-I'm a full-stack programmer with more than 10 years of experience in the industry. I specialize in building mobile & web applications using the latest technologies and frameworks.
+---
 
-I'm passionate about developing clean, maintainable, and efficient code that delivers optimal performance. I have experience working with startups, small businesses, and enterprise-level companies.
+I'm a full-stack programmer with over 10 years of experience in the industry. I specialize in building mobile & web applications using the latest technologies and frameworks.
 
-If you're looking for a skilled full-stack programmer who can bring your vision to life, please don't hesitate to contact me. I'd love to discuss your project requirements and how I can help you achieve your goals.
+I'm passionate about developing clean, maintainable, and efficient code that delivers optimal performance. I've worked with startups, small businesses, and enterprise-level companies across a variety of domains.
+
+If you're looking for a skilled full-stack programmer — and someone who understands both development *and* app growth — let's connect!  
+I'd love to discuss your project and how I can help you bring it to life.
+
+---
  
 📩 rodelgillera@gmail.com
