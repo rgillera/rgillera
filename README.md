@@ -5,7 +5,7 @@
 - **Mobile, Web, and Desktop Application Development**: I develop cross-platform applications using **Flutter** that work seamlessly across devices.
 - **Technical Consulting**: I provide expert guidance on software architecture, tech stack decisions, project planning, and more.
 - **App Store Optimization (ASO)**: I help indie developers, startups, and solo founders grow their mobile apps with smarter ASO strategies.  
-  👉 **Get a free ASO Checklist** — just [DM us on X](https://x.com/AsoNinjaPro) / [Email] rodel@asoninjapro.com / [Website] https://asoninjapro.com/
+  [DM us on X](https://x.com/AsoNinjaPro) / [Email] rodel@asoninjapro.com / [Website] https://asoninjapro.com/
 
 ---
 
@@ -18,4 +18,4 @@ I'd love to discuss your project and how I can help you bring it to life.
 
 ---
  
-📩 rodelgillera@gmail.com
+📩 rodel@asoninjapro.com
