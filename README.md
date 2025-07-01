@@ -16,6 +16,3 @@ I'm passionate about developing clean, maintainable, and efficient code that del
 If you're looking for a skilled full-stack programmer — and someone who understands both development *and* app growth — let's connect!  
 I'd love to discuss your project and how I can help you bring it to life.
 
----
- 
-📩 rodel@asoninjapro.com
